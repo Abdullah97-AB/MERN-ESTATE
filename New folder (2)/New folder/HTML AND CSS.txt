@@ -1,0 +1,28 @@
+Syllabus
+Module 1: My first Web page
+- The big three: HTML5, CSS and JavaScript
+- Elements, tags and attributes
+- Character encoding - Best practices
+
+Module 2: Attributes, images and links
+- Attributes
+- Semantic meaning
+- Images
+- Hyperlinks
+Module 3: Adding style with CSS
+- CSS basic syntax
+- CSS properties - Lists and selectors
+
+Module 4: Fixing and debugging
+- Debugging tools and HTML5
+- Debugging and the CSS box model - Debugging CSS precedence
+
+Module 5: More HTML5 and CSS
+- Tables
+- Multimedia
+- Embedding content - CSS tricks
+
+Module 6: Basics of page layout
+- Concepts
+- CSS Flexbox
+- CSS Grid - Recipe project
